@@ -1,8 +1,8 @@
 # House_price_regression
+This project was made to get some experience on handling/cleaning and feature extraction on large data sets (with many features).
+Used a GradientBoostingRegressor model for the regression and price prediction.
 
-
-
-Predict the price of a house, given the following data:
+# Predict the price of a house, given the following data:
 
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
